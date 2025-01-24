@@ -1,6 +1,6 @@
 
 
-import 'App.css'
+import './App.css'
 import 'font-awesome/css/font-awesome.min.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/Navbar';
