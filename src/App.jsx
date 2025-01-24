@@ -14,7 +14,7 @@ function App() {
     <>
       <Navbar />
       
-      <ItemListContainer text='Nuestros Productos' />
+      <ItemListContainer />
     
     </>
   )
